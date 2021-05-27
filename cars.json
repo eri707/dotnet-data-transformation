@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "make": "Mazda",
+      "model": "CX-3",
+      "type": "crossover"
+    },
+    {
+      "id": 2,
+      "make": "Mazda",
+      "model": "CX-5",
+      "type": "crossover"
+    },
+    {
+      "id": 3,
+      "make": "Mazda",
+      "model": "3",
+      "type": "sedan"
+    },
+    {
+      "id": 4,
+      "make": "Toyota",
+      "model": "RAV4",
+      "type": "crossover"
+    },
+    {
+      "id": 5,
+      "make": "Toyota",
+      "model": "Corolla",
+      "type": "sedan"
+    },
+    {
+      "id": 6,
+      "make": "Toyota",
+      "model": "Tundra",
+      "type": "truck"
+    },
+    {
+      "id": 7,
+      "make": "Honda",
+      "model": "Civic",
+      "type": "sedan"
+    },
+    {
+      "id": 8,
+      "make": "Honda",
+      "model": "CRV",
+      "type": "crossover"
+    },
+    {
+      "id": 9,
+      "make": "Nissan",
+      "model": "Rogue",
+      "type": "crossover"
+    },
+    {
+      "id": 10,
+      "make": "Nissan",
+      "model": "Leaf",
+      "type": "hatchback"
+    }
+  ]
